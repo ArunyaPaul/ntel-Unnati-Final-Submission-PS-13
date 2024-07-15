@@ -5,6 +5,7 @@ Intelligent Transportation and Surveillance System
 This repository contains code for an intelligent transportation and surveillance system developed using deep learning and computer vision techniques. The system includes modules for vehicle classification, number plate detection, vehicle movement analysis, and parking lot occupancy monitoring. It is designed to enhance traffic management, improve security, and optimize parking space utilization.
 
 Datasets Used:
+
 -> Stanford Cards Dataset: https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
 Citation: Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei, 4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013 (3dRR-13). Sydney, Australia. Dec. 8, 2013.
 
