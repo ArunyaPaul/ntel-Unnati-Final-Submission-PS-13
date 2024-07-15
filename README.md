@@ -6,10 +6,10 @@ This repository contains code for an intelligent transportation and surveillance
 
 Datasets Used:
 
--> Stanford Cards Dataset: https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
+-> Stanford Cards Dataset: https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset;
 Citation: Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei, 4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013 (3dRR-13). Sydney, Australia. Dec. 8, 2013.
 
--> Pklot Dataset: https://www.kaggle.com/datasets/ammarnassanalhajali/pklot-dataset
+-> Pklot Dataset: https://www.kaggle.com/datasets/ammarnassanalhajali/pklot-dataset;
 Citation: Almeida, P., Oliveira, L. S., Silva Jr, E., Britto Jr, A., Koerich, A., PKLot – A robust dataset for parking lot classification, Expert Systems with Applications, 42(11):4937-4949, 2015
 
 Key Features
