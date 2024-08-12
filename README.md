@@ -136,15 +136,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### References
 
-Stanford Cars Dataset
-Pklot Dataset
-Haar Cascade XML Files
-YOLO5 Model:https://pytorch.org/hub/ultralytics_yolov5/
-Haarcasscade Model: https://github.com/spmallick/mallick_cascades/blob/master/haarcascades/haarcascade_russian_plate_number.xml
-EasyOCR: https://github.com/JaidedAI/EasyOCR
-YouTube Video: https://www.youtube.com/watch?v=fyJB1t0o0ms&t=389s
-YouTube Playlist: https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&index=2
-Chat GPT and Google Bard (for syntax references and debugging)
+- Stanford Cars Dataset
+- Pklot Dataset
+- Haar Cascade XML Files
+- YOLO5 Model:https://pytorch.org/hub/ultralytics_yolov5/
+- Haarcasscade Model: https://github.com/spmallick/mallick_cascades/blob/master/haarcascades/haarcascade_russian_plate_number.xml
+- EasyOCR: https://github.com/JaidedAI/EasyOCR
+- YouTube Video: https://www.youtube.com/watch?v=fyJB1t0o0ms&t=389s
+- YouTube Playlist: https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&index=2
+- Chat GPT and Google Bard (for syntax references and debugging)
 
 ### Google Colab
 
