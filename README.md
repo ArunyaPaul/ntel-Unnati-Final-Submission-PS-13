@@ -59,6 +59,7 @@ This project is part of the Intel Unnati program, aimed at leveraging edge AI fo
 - **Hardware:** Edge device with support for TensorFlow Lite (e.g., Raspberry Pi) (*to be implemented)
 - **Software:** Python 3.x, TensorFlow, OpenCV, EasyOCR, Pandas, NumPy, Matplotlib, YOLOv5
 - **Haar Cascade:** Haar cascade XML file - "https://github.com/spmallick/mallick_cascades/blob/master/haarcascades/haarcascade_russian_plate_number.xml"
+- **YOLOv5:** "https://pytorch.org/hub/ultralytics_yolov5/"
 
 ### Installation
 
@@ -72,6 +73,7 @@ This project is part of the Intel Unnati program, aimed at leveraging edge AI fo
    -Stanford Cars Dataset
    -Pklot Dataset
 4. Download the Haar cascade XML file.
+5. Clone the YOLOv5 repository and install the required dependencies.
 
 ### Usage
 
@@ -114,7 +116,18 @@ This project is part of the Intel Unnati program, aimed at leveraging edge AI fo
    -Download Haar cascade XML file - 'haarcascade_russian_plate_number.xml'.
    -Upload the XML file to your Google Colab environment or edge device.
 
-4. Running the Code:
+4.  Clone the YOLOv5 repository and install the required dependencies:
+
+    ```bash
+    rm -rf yolov5
+    git clone https://github.com/ultralytics/yolov5.git
+    cd yolov5
+    pip install -r requirements.txt
+    ```
+
+    Use YOLOv5 models for vehicle detection tasks.
+
+5. Running the Code:
    -Ensure all libraries and dependencies are installed.
    -Follow the instructions in each script to load datasets, preprocess data, train models, and deploy the system.
 
