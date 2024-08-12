@@ -1,0 +1,15 @@
+easyocr
+pytesseract
+opencv-python
+opencv-contrib-python
+tensorflow
+keras
+scipy
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+requests==2.31.0
+pillow==10.0.0
+torch
