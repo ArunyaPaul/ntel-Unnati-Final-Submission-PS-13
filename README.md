@@ -124,7 +124,7 @@ Follow the instructions in the project structure to train and evaluate models fo
 
 ### Edge Deployment
 
-Use TensorFlow Lite to deploy models on edge devices. Ensure models are optimized for performance and accuracy on the target hardware.
+TensorFlow Lite can be used to deploy models on edge devices. Ensure models are optimized for performance and accuracy on the target hardware. A rough code example for edge deployment is provided in the Python notebook, and a similar Flask example code under the section "Sample Code for WebDev Application in Flask" has also also included for future application. These codes generalised examples and are meant to be fine-tuned based on your specific requirements and hardware.
 
 ### Contributing
 
